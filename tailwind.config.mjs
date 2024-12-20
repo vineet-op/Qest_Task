@@ -50,6 +50,9 @@ export default {
 					'5': 'hsl(var(--chart-5))'
 				},
 				mainbg: "#EEDDD3",
+				cardcirle: "#F54F35",
+				textsecondary: "#475467",
+				fcardbg: "#FAFAFA"
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
