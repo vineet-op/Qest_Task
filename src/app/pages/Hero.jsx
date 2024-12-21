@@ -23,7 +23,6 @@ const Hero = () => {
                     </p>
                     <p className="font-bold text-6xl"><span className="text-orange-600">Business with</span> R <span className="text-pink-950">Max</span> </p>
                     <p className=" bg-white px-40 p-2 rounded-lg mt-4 font-medium text-neutral-500">Enhance your business with Rmax's all-in-one platform—streamlining client <br /> engagement, automating workflows, and fueling growth.</p>
-
                 </div>
 
                 <div className="flex gap-6  mt-[60px] items-center justify-center">
