@@ -81,7 +81,9 @@ const Pricing = () => {
 
                     <div className="mt-8 text-center">
                         <button className="text-indigo-600 hover:text-indigo-500 font-medium">
-                            Explore In-Depth Differences
+                            <a href="/Pricedetails">
+                                Explore In-Depth Differences
+                            </a>
                         </button>
                     </div>
                 </div>

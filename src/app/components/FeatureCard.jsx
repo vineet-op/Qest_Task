@@ -17,5 +17,4 @@ const FeatureCard = ({ height, width, heading, subheading, image, link }) => {
         </div>
     )
 }
-
 export default FeatureCard

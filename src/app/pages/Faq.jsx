@@ -10,7 +10,7 @@ const Faq = () => {
     };
 
     return (
-        <div className="w-screen h-[811px] bg-neutral-100 flex justify-center items-center">
+        <div className="w-screen h-[811px] bg-neutral-100 flex justify-center items-center ">
             <div className="w-[724px] h-[691px] pt-[60px]">
                 <p className="text-center font-semibold text-5xl">Frequently Asked Questions</p>
                 <p className="w-[700px] px-5 text-textsecondary font-medium text-center mt-8">
